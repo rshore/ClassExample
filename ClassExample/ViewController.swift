@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  ClassExample
 //
-//  Created by Roger Shore on 1/18/17.
+//  Created by Roger S. Shore on 1/18/17.
 //  Copyright © 2017 CSC. All rights reserved.
 //
 
